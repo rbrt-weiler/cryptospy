@@ -1,0 +1,30 @@
+{
+	"general": {		
+		"database": "cryptospy.db",
+		"local_currency": "EUR"
+	},
+	"collector": {
+		"crypto_currencies": [
+			"BTC",
+			"ETH",
+			"LTC"
+		],
+		"real_currencies": [
+			"EUR",
+			"USD"
+		]
+	},
+	"investments": {
+		"crypto_assets": {
+			"BTC": 0.21098765,
+			"ETH": 1.32109876,
+			"LTC": 2.43210987
+		},
+		"crypto_investments": {
+			"BTC": 100.00,
+			"ETH": 150.00,
+			"LTC": 200.00
+		}
+	}
+}
+
